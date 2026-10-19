@@ -21,6 +21,16 @@
       "category": "entertainment",
       "versions": [
         {
+          "version": "0.6.149",
+          "buildVersion": "149",
+          "date": "2026-10-19T15:26:30Z",
+          "localizedDescription": "Disney+-style player and episode list, automatic source and quality (lean 4K, can be turned off in Settings), Apple TV-style scrubbing, AirPlay, smoother rotation, audio and lock-screen fixes.",
+          "downloadURL": "https://github.com/devpersaud06/nuvio-sidestore/releases/download/v0.6.149-149/nuvio-0.6.149-149.ipa",
+          "size": 68822564,
+          "sha256": "bad2edd61ba9be2f4fe586b9fd3ad830824be4399d4571b3f0d29b6183270432",
+          "minOSVersion": "16.1"
+        },
+        {
           "version": "0.6.2",
           "buildVersion": "147",
           "date": "2026-10-19T06:58:31Z",
