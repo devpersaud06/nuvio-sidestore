@@ -22,6 +22,16 @@
       "versions": [
         {
           "version": "0.6.2",
+          "buildVersion": "147",
+          "date": "2026-10-19T06:58:31Z",
+          "localizedDescription": "Fixed\n\u2022 Scrub preview thumbnails now appear above the timeline while you drag.\n\nNew\n\u2022 Netflix-style adaptive quality: drops quality when your connection slows and climbs back when it recovers, silently.\n\u2022 Seamless quality swaps with no reload or loading screen, timed to the exact frame.\n\u2022 Quality menu in the player: Auto, or lock 2160p / 1080p / 720p / 480p.\n\u2022 Fast start: slow sources begin on 720p and step up to your pick.\n\u2022 Scrub preview thumbnails on the timeline.\n\u2022 Next episode preloads during the countdown and starts instantly.\n\nImproved\n\u2022 Sources with a different cut or length are detected and skipped automatically.\n\u2022 Stuttering playback is detected, not just long stalls.\n\u2022 Fixed the buffered-amount reading in the iOS player.\n\u2022 Nuvio account sign-in now works: sync your library, progress and addons.",
+          "downloadURL": "https://github.com/devpersaud06/nuvio-sidestore/releases/download/v0.6.2-3/nuvio-0.6.2-3.ipa",
+          "size": 68816166,
+          "sha256": "677e677d4ec05557b538b28545ea18950db8cfa395f57d68a3263ad1c8bf6974",
+          "minOSVersion": "16.1"
+        },
+        {
+          "version": "0.6.2",
           "buildVersion": "146",
           "date": "2026-10-19T06:58:31Z",
           "localizedDescription": "New\n\u2022 Netflix-style adaptive quality: drops quality when your connection slows and climbs back when it recovers, silently.\n\u2022 Seamless quality swaps with no reload or loading screen, timed to the exact frame.\n\u2022 Quality menu in the player: Auto, or lock 2160p / 1080p / 720p / 480p.\n\u2022 Fast start: slow sources begin on 720p and step up to your pick.\n\u2022 Scrub preview thumbnails on the timeline.\n\u2022 Next episode preloads during the countdown and starts instantly.\n\nImproved\n\u2022 Sources with a different cut or length are detected and skipped automatically.\n\u2022 Stuttering playback is detected, not just long stalls.\n\u2022 Fixed the buffered-amount reading in the iOS player.\n\u2022 Nuvio account sign-in now works: sync your library, progress and addons.",
