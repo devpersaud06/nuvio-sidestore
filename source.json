@@ -1,0 +1,41 @@
+{
+  "name": "Nuvio",
+  "identifier": "com.devpersaud.nuvio.source",
+  "sourceURL": "https://raw.githubusercontent.com/devpersaud06/nuvio-sidestore/main/source.json",
+  "subtitle": "A free, open-source media app for your phone.",
+  "description": "Nuvio with automatic quality switching, a quality menu, fast start, scrub previews and next-episode preloading.",
+  "iconURL": "https://raw.githubusercontent.com/NuvioMedia/NuvioMobile/0.4.11/iosApp/iosApp/Assets.xcassets/AppIcon.appiconset/app-icon-1024.png",
+  "tintColor": "#1E88E5",
+  "featuredApps": [
+    "com.devpersaud.nuvio"
+  ],
+  "apps": [
+    {
+      "name": "Nuvio",
+      "bundleIdentifier": "com.devpersaud.nuvio",
+      "developerName": "devpersaud06",
+      "subtitle": "A free, open-source media app for your phone.",
+      "localizedDescription": "Bring your own sources. Nuvio turns them into a library with artwork, ratings, subtitles, and your place saved on every screen.\n\nThis build adds Netflix-style automatic quality switching, a quality menu (Auto / 2160p / 1080p / 720p / 480p), fast start, scrub preview thumbnails and next-episode preloading.",
+      "iconURL": "https://raw.githubusercontent.com/NuvioMedia/NuvioMobile/0.4.11/iosApp/iosApp/Assets.xcassets/AppIcon.appiconset/app-icon-1024.png",
+      "tintColor": "#1E88E5",
+      "category": "entertainment",
+      "versions": [
+        {
+          "version": "0.6.2",
+          "buildVersion": "145",
+          "date": "2026-10-19T06:58:31Z",
+          "localizedDescription": "Automatic quality switching, quality menu, fast start, scrub previews and next-episode preloading.",
+          "downloadURL": "https://github.com/devpersaud06/nuvio-sidestore/releases/download/v0.6.2-1/nuvio-0.6.2.ipa",
+          "size": 68818613,
+          "sha256": "3bd954ca8e8a62fff9b8b34a0a8bc9797adaa4cd3bf346ce67f136854b921a19",
+          "minOSVersion": "16.1"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    }
+  ],
+  "news": []
+}
