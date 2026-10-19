@@ -21,6 +21,16 @@
       "category": "entertainment",
       "versions": [
         {
+          "version": "0.6.150",
+          "buildVersion": "150",
+          "date": "2026-10-19T22:35:21Z",
+          "localizedDescription": "Smoother Disney+-style rotation into and out of the player, cleaner Continue Watching, plus the new player, auto quality and fixes.",
+          "downloadURL": "https://github.com/devpersaud06/nuvio-sidestore/releases/download/v0.6.150-150/nuvio-0.6.150-150.ipa",
+          "size": 68820138,
+          "sha256": "db48eaa10dfe14fb15a5b3123b24402bd850d03d339260420a2bb1257badd650",
+          "minOSVersion": "16.1"
+        },
+        {
           "version": "0.6.149",
           "buildVersion": "149",
           "date": "2026-10-19T15:26:30Z",
