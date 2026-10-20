@@ -88,6 +88,16 @@
       "localizedDescription": "The same Nuvio, rebuilt natively in Swift and SwiftUI: faster, smoother and fully native on iPhone. It uses the same Nuvio account and server, so your addons, library and progress follow you. It installs next to the regular Nuvio app while the port is completed.",
       "versions": [
         {
+          "version": "1.0.163",
+          "buildVersion": "163",
+          "date": "2026-10-20T14:28:11Z",
+          "localizedDescription": "Search mode, new genre tiles, daily Home picks, mute stays up",
+          "downloadURL": "https://github.com/devpersaud06/nuvio-sidestore/releases/download/native-v1.0.163-163/nuvio-native-1.0.163-163.ipa",
+          "size": 48416926,
+          "sha256": "20a240b58a22ef4f2638d47ca6317bcefeb45fd36b67ef545ce86a9b6f7822e5",
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "1.0.162",
           "buildVersion": "162",
           "date": "2026-10-20T13:49:26Z",
