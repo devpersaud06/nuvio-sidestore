@@ -7,7 +7,8 @@
   "iconURL": "https://raw.githubusercontent.com/NuvioMedia/NuvioMobile/0.4.11/iosApp/iosApp/Assets.xcassets/AppIcon.appiconset/app-icon-1024.png",
   "tintColor": "#1E88E5",
   "featuredApps": [
-    "com.devpersaud.nuvio"
+    "com.devpersaud.nuvio",
+    "com.devpersaud.nuvio.native"
   ],
   "apps": [
     {
@@ -74,6 +75,34 @@
       "appPermissions": {
         "entitlements": [],
         "privacy": {}
+      }
+    },
+    {
+      "developerName": "devpersaud06",
+      "iconURL": "https://raw.githubusercontent.com/NuvioMedia/NuvioMobile/0.4.11/iosApp/iosApp/Assets.xcassets/AppIcon.appiconset/app-icon-1024.png",
+      "tintColor": "#1E88E5",
+      "category": "entertainment",
+      "name": "Nuvio Native",
+      "bundleIdentifier": "com.devpersaud.nuvio.native",
+      "subtitle": "Nuvio rebuilt in Swift. Preview while the port finishes.",
+      "localizedDescription": "The same Nuvio, rebuilt natively in Swift and SwiftUI: faster, smoother and fully native on iPhone. It uses the same Nuvio account and server, so your addons, library and progress follow you. It installs next to the regular Nuvio app while the port is completed.",
+      "versions": [
+        {
+          "version": "1.0.157",
+          "buildVersion": "157",
+          "date": "2026-10-20T10:00:09Z",
+          "localizedDescription": "Apple TV style Home, details and player, Up Next, media servers, cloud, plugins, MDBList",
+          "downloadURL": "https://github.com/devpersaud06/nuvio-sidestore/releases/download/native-v1.0.157-157/nuvio-native-1.0.157-157.ipa",
+          "size": 44774439,
+          "sha256": "0df1d53044f48c0d40bb9fd340b012eef7e2a537e687e918d1b8ba9662219e13",
+          "minOSVersion": "17.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSLocalNetworkUsageDescription": "Nuvio connects to media servers on your local network."
+        }
       }
     }
   ],
