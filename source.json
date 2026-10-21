@@ -88,6 +88,16 @@
       "localizedDescription": "The same Nuvio, rebuilt natively in Swift and SwiftUI: faster, smoother and fully native on iPhone. It uses the same Nuvio account and server, so your addons, library and progress follow you. It installs next to the regular Nuvio app while the port is completed.",
       "versions": [
         {
+          "version": "1.0.169",
+          "buildVersion": "169",
+          "date": "2026-10-21T02:29:42Z",
+          "localizedDescription": "Apple TV Info panel, card swipe, menus close on pick",
+          "downloadURL": "https://github.com/devpersaud06/nuvio-sidestore/releases/download/native-v1.0.169-169/nuvio-native-1.0.169-169.ipa",
+          "size": 49114623,
+          "sha256": "aa87696185529a8030c9739edea054fead2793f358f166e1ff3f2cbf3b8a8359",
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "1.0.168",
           "buildVersion": "168",
           "date": "2026-10-21T02:15:57Z",
