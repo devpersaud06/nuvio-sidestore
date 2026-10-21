@@ -88,6 +88,16 @@
       "localizedDescription": "The same Nuvio, rebuilt natively in Swift and SwiftUI: faster, smoother and fully native on iPhone. It uses the same Nuvio account and server, so your addons, library and progress follow you. It installs next to the regular Nuvio app while the port is completed.",
       "versions": [
         {
+          "version": "1.0.174",
+          "buildVersion": "174",
+          "date": "2026-10-21T11:00:17Z",
+          "localizedDescription": "Apple TV menus, audio by language, readable subtitle names, English default, fade on close",
+          "downloadURL": "https://github.com/devpersaud06/nuvio-sidestore/releases/download/native-v1.0.174-174/nuvio-native-1.0.174-174.ipa",
+          "size": 49282143,
+          "sha256": "60eba9c598f38f7bb96057691e27ff7e7aadac45eddfb93ea09784df01a90de7",
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "1.0.173",
           "buildVersion": "173",
           "date": "2026-10-21T10:26:06Z",
