@@ -88,6 +88,16 @@
       "localizedDescription": "The same Nuvio, rebuilt natively in Swift and SwiftUI: faster, smoother and fully native on iPhone. It uses the same Nuvio account and server, so your addons, library and progress follow you. It installs next to the regular Nuvio app while the port is completed.",
       "versions": [
         {
+          "version": "1.0.195",
+          "buildVersion": "195",
+          "date": "2026-10-23T02:31:12Z",
+          "localizedDescription": "Faster start: shorter black loading screen",
+          "downloadURL": "https://github.com/devpersaud06/nuvio-sidestore/releases/download/native-v1.0.195-195/nuvio-native-1.0.195-195.ipa",
+          "size": 49388739,
+          "sha256": "789639ac9a412d37bf4531b003ff920e4d9cd481da96d06976ebbdce6f1b22b4",
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "1.0.194",
           "buildVersion": "194",
           "date": "2026-10-23T02:01:26Z",
