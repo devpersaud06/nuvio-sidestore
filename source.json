@@ -88,6 +88,16 @@
       "localizedDescription": "The same Nuvio, rebuilt natively in Swift and SwiftUI: faster, smoother and fully native on iPhone. It uses the same Nuvio account and server, so your addons, library and progress follow you. It installs next to the regular Nuvio app while the port is completed.",
       "versions": [
         {
+          "version": "1.0.204",
+          "buildVersion": "204",
+          "date": "2026-10-26T07:21:41Z",
+          "localizedDescription": "Hero crossfades in place, title hides during swipes; sharper trailers (start at 720p); swipe the hero from anywhere above the dots; matching profile button on Search",
+          "downloadURL": "https://github.com/devpersaud06/nuvio-sidestore/releases/download/native-v1.0.204-204/nuvio-native-1.0.204-204.ipa",
+          "size": 49512251,
+          "sha256": "897542ba24f2a23e2b023151db08488445eb17f5bc92b85db58f4ceb98fa95e1",
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "1.0.203",
           "buildVersion": "203",
           "date": "2026-10-26T06:39:04Z",
