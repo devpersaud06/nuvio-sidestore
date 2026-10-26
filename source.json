@@ -88,6 +88,16 @@
       "localizedDescription": "The same Nuvio, rebuilt natively in Swift and SwiftUI: faster, smoother and fully native on iPhone. It uses the same Nuvio account and server, so your addons, library and progress follow you. It installs next to the regular Nuvio app while the port is completed.",
       "versions": [
         {
+          "version": "1.0.207",
+          "buildVersion": "207",
+          "date": "2026-10-26T14:14:59Z",
+          "localizedDescription": "English and English SDH are separate subtitle choices, a picked subtitle survives a quality change, and the track menus stay open.",
+          "downloadURL": "https://github.com/devpersaud06/nuvio-sidestore/releases/download/native-v1.0.207-207/nuvio-native-1.0.207-207.ipa",
+          "size": 47220208,
+          "sha256": "274a55a281bfe300d036ca0dc24d067e01bf89d3a304a6a73a4c0b69be8cd06f",
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "1.0.206",
           "buildVersion": "206",
           "date": "2026-10-26T13:46:37Z",
