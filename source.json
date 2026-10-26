@@ -88,6 +88,16 @@
       "localizedDescription": "The same Nuvio, rebuilt natively in Swift and SwiftUI: faster, smoother and fully native on iPhone. It uses the same Nuvio account and server, so your addons, library and progress follow you. It installs next to the regular Nuvio app while the port is completed.",
       "versions": [
         {
+          "version": "1.0.206",
+          "buildVersion": "206",
+          "date": "2026-10-26T13:46:37Z",
+          "localizedDescription": "AirPlay sends MKV to the Apple TV as HLS made on the phone; unplayable streams and titles hidden; hero title fades back faster",
+          "downloadURL": "https://github.com/devpersaud06/nuvio-sidestore/releases/download/native-v1.0.206-206/nuvio-native-1.0.206-206.ipa",
+          "size": 47213496,
+          "sha256": "19e0d650c278f91c4dc40ed2a9a9562c21090f00ea48f93b7270ff1d8536a18d",
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "1.0.205",
           "buildVersion": "205",
           "date": "2026-10-26T07:30:58Z",
