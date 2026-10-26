@@ -88,6 +88,16 @@
       "localizedDescription": "The same Nuvio, rebuilt natively in Swift and SwiftUI: faster, smoother and fully native on iPhone. It uses the same Nuvio account and server, so your addons, library and progress follow you. It installs next to the regular Nuvio app while the port is completed.",
       "versions": [
         {
+          "version": "1.0.197",
+          "buildVersion": "197",
+          "date": "2026-10-26T02:36:13Z",
+          "localizedDescription": "Player opens instantly with controls while loading; faster start (reuses stream answers, prefetches Continue Watching); smoother hero paging with iOS-style page dots and faster trailers; muted loading, subtitle and AirPlay fixes; Apple TV style search with Browse shelves at the bottom; hides titles without streams on Home and Search with a Top Results fallback; Continue Watching no longer shows episodes not out yet; subtitle Style menu",
+          "downloadURL": "https://github.com/devpersaud06/nuvio-sidestore/releases/download/native-v1.0.197-197/nuvio-native-1.0.197-197.ipa",
+          "size": 49550288,
+          "sha256": "514e0f608ce2594275929d3753866b462ee73be032fe36aacdb039a202bee2c7",
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "1.0.196",
           "buildVersion": "196",
           "date": "2026-10-26T02:14:07Z",
