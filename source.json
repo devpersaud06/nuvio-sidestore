@@ -88,6 +88,16 @@
       "localizedDescription": "The same Nuvio, rebuilt natively in Swift and SwiftUI: faster, smoother and fully native on iPhone. It uses the same Nuvio account and server, so your addons, library and progress follow you. It installs next to the regular Nuvio app while the port is completed.",
       "versions": [
         {
+          "version": "1.0.214",
+          "buildVersion": "214",
+          "date": "2026-10-28T08:28:30Z",
+          "localizedDescription": "AirPlay sends video for any file (re-encodes if needed, says why if not); subtitles come back on reopen and only ones that fit your stream are listed",
+          "downloadURL": "https://github.com/devpersaud06/nuvio-sidestore/releases/download/native-v1.0.214-214/nuvio-native-1.0.214-214.ipa",
+          "size": 49636106,
+          "sha256": "8ad1490b1500f4bd333e7206578056bef784de303a50420ff463980f34795a39",
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "1.0.213",
           "buildVersion": "213",
           "date": "2026-10-28T03:05:45Z",
