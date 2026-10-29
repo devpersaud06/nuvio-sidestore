@@ -88,6 +88,16 @@
       "localizedDescription": "The same Nuvio, rebuilt natively in Swift and SwiftUI: faster, smoother and fully native on iPhone. It uses the same Nuvio account and server, so your addons, library and progress follow you. It installs next to the regular Nuvio app while the port is completed.",
       "versions": [
         {
+          "version": "1.0.223",
+          "buildVersion": "223",
+          "date": "2026-10-29T09:40:52Z",
+          "localizedDescription": "Smoother Home: no redraws while idle or scrolling, pages open without redrawing Home, lighter title page; video start changes reverted",
+          "downloadURL": "https://github.com/devpersaud06/nuvio-sidestore/releases/download/native-v1.0.223-223/nuvio-native-1.0.223-223.ipa",
+          "size": 49876848,
+          "sha256": "c8cef454c8e0a9918a2693a44a57edd02140e70be51b867913e66f96c7ab80dd",
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "1.0.222",
           "buildVersion": "222",
           "date": "2026-10-29T08:37:41Z",
